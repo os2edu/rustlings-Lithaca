@@ -10,6 +10,7 @@ pub fn factorial(num: u64) -> u64 {
     // Try not to use:
     // - imperative style loops (for, while)
     // - additional variables
+    
     // For an extra challenge, don't use:
     // - recursion
     // Execute `rustlings hint iterators4` for hints.
